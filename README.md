@@ -5,6 +5,8 @@ This project analyzes the Olist Brazilian e-commerce dataset to understand sales
 
 ## Problem Statement
 The goal of this project is to understand how an e-commerce business performs in terms of revenue, sales, and delivery operations, and to identify areas that need improvement.
+olist dataset:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com
 
 ## Tools Used
 - Python
